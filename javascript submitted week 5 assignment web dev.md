@@ -1,9 +1,9 @@
  javascript file
  
  <script>
-        // ===========================================
-        // PART 1: JAVASCRIPT BASICS
-        // ===========================================
+        
+        PART 1: JAVASCRIPT BASICS
+   
         
         // Variables to store user data
         let userData = {
